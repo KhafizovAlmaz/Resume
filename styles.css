@@ -120,6 +120,10 @@ border-radius: 10px;
 .width p {
     margin-top: 5px;
 }
+.width a {
+    text-decoration: none;
+    color: black;
+}
 
 
 .skills {
